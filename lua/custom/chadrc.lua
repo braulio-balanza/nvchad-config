@@ -4,9 +4,9 @@ local M = {}
 local override = require "custom.override"
 
 M.ui = {
-  theme = "nightowl",
+  theme = "ayu-dark",
   theme_toggle = {
-    "nightowl",
+    "ayo_dark",
     "one_light",
   },
 }
